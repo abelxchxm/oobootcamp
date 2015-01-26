@@ -1,0 +1,6 @@
+After the creation of composer.json, we run:
+$ composer install
+After updating our composer.json, we run:
+$ composer dump-autoload
+
+We created the files 'index.php' and 'ex.php'. We also created the src directory and the files inside it.
